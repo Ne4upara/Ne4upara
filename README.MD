@@ -1,9 +1,10 @@
-# Ne4upara 
+# Hello? I am Ne4upara.
 
-Всем привет. 
+### Open Source Projects
 
-## Мои проекты
-- [ХутирКрафт](https://github.com/Hutiir-Craft-Food/FoodBackend) : <Маркет плейс из продуктов питания, собственного производства.>
+| Project | Description | Stack | Stars |
+|---------|-------------|-------|-------|
+| [ХутирКрафт](https://github.com/Hutiir-Craft-Food/FoodBackend) | Маркетплейс продуктов питания. | Java | [![Stars](https://img.shields.io/github/stars/Hutiir-Craft-Food/FoodBackend?style=social)](https://github.com/Hutiir-Craft-Food/FoodBackend)
 
 
 ## Связаться со мной
