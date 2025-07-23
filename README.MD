@@ -1,4 +1,4 @@
-# Hello? I am Ne4upara.
+# Hello, I am Ne4upara.
 
 ### My Projects
 
